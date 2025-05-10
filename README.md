@@ -6,7 +6,7 @@ To develop a Django application to store and retrieve data from a Movies Databas
 
 ## ER DIAGRAM
 
-![Uploading MOVIE_(2)[1].png…]()
+![Screenshot 2025-05-10 131306](https://github.com/user-attachments/assets/70f9b1c0-df5b-493f-89ac-39f695f6162b)
 
 
 ## DESIGN STEPS
